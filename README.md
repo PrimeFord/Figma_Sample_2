@@ -1,8 +1,6 @@
 # UseState_Ex
 
-# Code_Village-Website-Clone
-
-Code Village Website Clone: This project is a clone of code village official website. it is fully responsive on a mobile phone
+In this project the background of the parent box changes with a click from the children box using useState and setColor
 
 ## Getting Started
 
@@ -14,12 +12,7 @@ Clone or download this repository and run with a local server of open `index.htm
 
 ## Features
 
-- About
-- Course Enrollment
-- Courses
-- Programs and Schedule
-- Courses
-- Contact Us
+- Background Color
 
 ## Tech/framework used
 
@@ -27,10 +20,11 @@ Clone or download this repository and run with a local server of open `index.htm
 - CSS
 - ReactJS
 - Vite
+- Tailwind-CSS
 
 ## Preview
 
-[Preview Here](https://beautiful-heliotrope-b80911.netlify.app)
+[Preview Here](https://delightful-tanuki-3efe55.netlify.app)
 
 ![screenshot](./media/snip.png)
 
